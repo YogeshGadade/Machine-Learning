@@ -26,9 +26,15 @@ This project aims to perform text multiclass classification using various machin
 The project achieves an impressive accuracy of 98% in the multiclass classification task using linear SVM and Naive Bayes models. The EDA provides valuable insights into the dataset, and the word cloud visualization helps identify key terms and themes in the text data.
 
 ## Repository Structure
-data/: Contains the raw BBC News text data files.
-preprocessing.ipynb: Jupyter Notebook with the data preprocessing code.
-eda.ipynb: Jupyter Notebook with the exploratory data analysis code.
-models.ipynb: Jupyter Notebook with the model development and evaluation code.
+- data/: Contains the raw BBC News text data files.
+- preprocessing.ipynb: Jupyter Notebook with the data preprocessing code.
+- eda.ipynb: Jupyter Notebook with the exploratory data analysis code.
+- models.ipynb: Jupyter Notebook with the model development and evaluation code.
+
+# Usage
+1. Clone the repository:
+- bash code     git clone https://github.com/YogeshGadade/Machine-Learning.git
+2. Install the required dependencies.
+- Execute the Jupyter Notebooks 
 
 cpe 695 fall 2021
